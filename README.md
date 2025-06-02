@@ -3,6 +3,8 @@ Materiais resumidos sobre livros conceituados da Computação
 
 Status dos livros:
 
-Clean Code: Em andamento
+Clean Code: Concluído
 
-O Programador Pragmático: Em andamento
+O Programador Pragmático: Concluído
+
+Não Me Faça Pensar: Em andamento
