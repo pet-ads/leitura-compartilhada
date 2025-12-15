@@ -7,4 +7,6 @@ Clean Code: Concluído
 
 O Programador Pragmático: Concluído
 
-Não Me Faça Pensar: Em andamento
+Não Me Faça Pensar: Concluído
+
+O Codificador Limpo: Em andamento
